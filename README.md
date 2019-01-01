@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Reference
+
+Copied login form protractor example from: [E2E Protractor Login form example](https://www.codeproject.com/Articles/1251554/%2FArticles%2F1251554%2FEnd-to-End-E2E-Tests-in-Angular-Application-Using)
